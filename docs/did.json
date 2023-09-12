@@ -1,23 +1,23 @@
 {
   "@context": "https://www.w3.org/ns/did/v1",
-  "id": "did:web:daratao.github.io:did-web-on-gh-pages",
+  "id": "did:web:daratao.github.io:did-web-sp",
   "verificationMethod": [
     {
-      "id": "did:web:daratao.github.io:did-web-on-gh-pages#key1",
+      "id": "did:web:daratao.github.io:did-web-sp#key1",
       "type": "EcdsaSecp256k1VerificationKey2019",
-      "controller": "did:web:daratao.github.io:did-web-on-gh-pages",
+      "controller": "did:web:daratao.github.io:did-web-sp",
       "publicKeyJwk": {
         "kty": "EC",
-        "x": "F1ZI3OHie7MKFz4qjj09uoWrlSWekHPCB59qglX17B8",
-        "y": "konl3qGiHv5KWmeHvLjdkAhBJmpB_PVzHohE7O-FnMg",
+        "x": "-SFd2KlmrtlGA1tXE7lKXJrcBnrTa2Xet7g_Drd6ztQ",
+        "y": "V4aSAMROVjS6I3bmTsOukDv3FBNwPR_0FTmTdowaDiU",
         "crv": "secp256k1"
       }
     }
   ],
   "authentication": [
-    "did:web:daratao.github.io:did-web-on-gh-pages#key1"
+    "did:web:daratao.github.io:did-web-sp#key1"
   ],
   "assertionMethod": [
-    "did:web:daratao.github.io:did-web-on-gh-pages#key1"
+    "did:web:daratao.github.io:did-web-sp#key1"
   ]
 }
