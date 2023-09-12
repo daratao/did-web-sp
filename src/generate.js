@@ -64,7 +64,7 @@ const main = async () => {
   2. Setup github pages on GitHub so that publishes 'docs' directory of main branch in this repository.
       https://docs.github.com/ja/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
   3. Check Your Github Pages are deployed. 
-  4. Resolve generated DID:web in Universal Resolver(https://github.com/chike0905/did-web-on-gh-pages)
+  4. Resolve generated DID:web in Universal Resolver(https://dev.uniresolver.io/)
       Generated DID: ${DID}
   `)
 };
